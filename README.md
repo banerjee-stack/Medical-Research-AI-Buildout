@@ -1,4 +1,5 @@
-*Start Here* 
+*Start Here* [Research Product Buildout TL;DR.pdf](https://github.com/user-attachments/files/23682348/Research.Product.Buildout.TL.DR.pdf)
+
 # Research-Product-Build-Out
 Rapid buildout to define user needs, perform exploratory processing of usability data and UXR‑principles evaluation, synthesize prioritized insights, produce lightweight prototypes and reproducible analysis artifacts, and hand off clear requirements to engineering and rollout teams.
 # Product Summary 
@@ -10,3 +11,6 @@ Value: reduces technical barriers to data analysis; accelerate learning by makin
 **Educational scaffolding**: inline tips, micro-tutorials, inductive reasoning to define data steps and support learning, user (learner) experience optimized
 **Safety and compliance**: guides to deidentification inline with instructions, system privacy, and auditable steps for reproducibility
 **Generative interpretation**: plain language summaries as well as report-ready language
+
+# Current Status: Handoff
+Handoff to rollout team for Fall semester — handoff complete; pilot deployment window: Aug–December; rollout owner: (__); pilot cohort: 1 residency program; access: internal; next milestone TBD: second iteration user feedback, internal revisions and second rollout.
