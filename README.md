@@ -14,3 +14,44 @@ Value: reduces technical barriers to data analysis; accelerate learning by makin
 
 # Current Status: Handoff
 Handoff to rollout team for Fall semester — handoff complete; pilot deployment window: Aug–December; rollout owner: (__); pilot cohort: 1 residency program; access: internal; next milestone TBD: second iteration user feedback, internal revisions and second rollout.
+
+## 🧭 UX Evaluation Rubric
+
+This rubric is used to assess the usability, clarity, and overall quality of a design, prototype, or digital product.  
+Each dimension includes a guiding question to evaluate user experience quality.
+
+---
+
+### 🎯 **Rubric Dimensions**
+
+| **Dimension**                 | **Guiding Question** |
+|------------------------------|-----------------------|
+| 🟡 **Efficient**             | Can the user complete tasks with minimal effort? |
+| 🟡 **Functional & Intuitive**| Does it work the way the user expects? |
+| 🟡 **Engaging**              | Is the user focused and not distracted? |
+| ⚪ **Comprehensive**         | Is the tool or content accurate and reliable? |
+| ⚪ **Accessible & Easy to Use** | Is the experience readable, inclusive, and navigable for all users? |
+
+> 🟡 Highlighted dimensions indicate areas prioritized during evaluation.
+
+---
+
+### 📊 **Rating Scale**
+
+| **Rating** | **Color** | **Meaning** |
+|------------|-----------|-------------|
+| **1** | 🟥 | Non-functional — needs immediate attention |
+| **2** | 🟧 | Major issues — significant usability problems |
+| **3** | 🟨 | Moderate — works but needs refinement |
+| **4** | 🟩 | Good — meets expectations with minor polish needed |
+| **5** | 🟦 | Excellent — well executed and user-ready |
+
+---
+
+### 📝 **How to Use This Rubric**
+
+1. Evaluate each UX dimension.  
+2. Assign a rating between **1–5** based on the criteria above.  
+3. Document the reasoning for each rating (qualitative notes).  
+4. Summarize key issues + recommendations for improvement.  
+
