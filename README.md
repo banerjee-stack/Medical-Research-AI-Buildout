@@ -29,10 +29,9 @@ Each dimension includes a guiding question to evaluate user experience quality.
 | 🟡 **Efficient**             | Can the user complete tasks with minimal effort? |
 | 🟡 **Functional & Intuitive**| Does it work the way the user expects? |
 | 🟡 **Engaging**              | Is the user focused and not distracted? |
-| ⚪ **Comprehensive**         | Is the tool or content accurate and reliable? |
-| ⚪ **Accessible & Easy to Use** | Is the experience readable, inclusive, and navigable for all users? |
+| 🟡 **Comprehensive**         | Is the tool or content accurate and reliable? |
+| 🟡 **Accessible & Easy to Use** | Is the experience readable, inclusive, and navigable for all users? |
 
-> 🟡 Highlighted dimensions indicate areas prioritized during evaluation.
 
 ---
 
