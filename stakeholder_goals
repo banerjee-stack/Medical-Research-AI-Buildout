@@ -20,24 +20,24 @@ Engineering Lead: Python specialist/primary code integration manager
 - Evaluation criteria: UX/UI principles
 - Consultant action: small moderated sessions completed; evaluative rubrics with scores, prioritized findings with fixes to meet thresholds
 
-4. PI goal: Identify relevant analyses to medical student and resident needs
+5. PI goal: Identify relevant analyses to medical student and resident needs
 - Evaluation criteria: prioritized list of 5–15 analysis types mapped to common learning/reporting tasks; each analysis includes purpose, assumptions, and typical output format.
 - Consultant action: researched clinical reporting conventions; surveyed resident learning needs; drafted and validated a prioritized list of 5–15 target analyses.
 
-5. PI goal: Make analyses teachable to residents
+6. PI goal: Make analyses teachable to residents
 - Evaluation criteria: Residents can explain the analysis and reproduce key steps in a multi-armed walkthrough
 - Consultant action: Added or revised inline micro‑tutorials, example walkthrough cells, and end‑of‑lesson tests in the example notebook
 
-6. PI goal: Protect PHI
+7. PI goal: Protect PHI
 - Evaluation criteria: processing and redaction steps documented; no PHI present in repo artifacts; each run records minimal audit fields.
 - Consultant action: added concise inline instructions for deidentified data handling; authored redaction checklist, synthetic data with annotation
 
-7. PI goal: Runnable analyses with artifacts
+8. PI goal: Runnable analyses with artifacts
 - Evaluation criteria: product guides users through the data lifecycle and produces user‑friendly, report‑ready language outputs.
 - Consultant action: created user‑action walkthrough and product manual skeleton using synthetic data; audited outputs against manual analytic baseline; iterated with engineering to refine outputs.
 - Owners: Research Consultant (Bekah) & Engineering Lead
 
-8. PI goal: Fit into clinical workflow, stakeholder signoff, rollout handoff
+9. PI goal: Fit into clinical workflow, stakeholder signoff, rollout handoff
 - Evaluation criteria: Director confirms outputs meet basic clinical needs for pilot and provides sign‑off.
 - Consultant action: Mapped goals to clear acceptance checks and acceptance checklist for pilot; prepared rollout handoff materials for review
 - Owners: Research Consultant and PI
